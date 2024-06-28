@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: AvoidMiniGame
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: game develop
 related_publications: true
 ---
 
